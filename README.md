@@ -1,1 +1,0 @@
-# HckerRank-migratory-birds-solution
